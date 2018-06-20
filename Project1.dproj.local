@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/05/28 13:59:17.000.704,=D:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/30 17:12:11.000.493,=D:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/01 16:44:31.000.666,=D:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/19 14:27:02.000.742,=D:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/06/19 14:27:52.000.152,D:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit2.pas=D:\Temp\Firebase\Unit2.pas</Transaction>
+    <Transaction>2018/06/19 14:27:52.000.152,D:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit2.fmx=D:\Temp\Firebase\Unit2.fmx</Transaction>
+    <Transaction>2018/06/19 14:27:53.000.608,D:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Temp\Firebase\Project1.dproj</Transaction>
+    <Transaction>2018/06/19 14:28:16.000.600,=D:\Temp\Firebase\ClientClassesUnit1.pas</Transaction>
+    <Transaction>2018/06/19 14:28:17.000.668,=D:\Temp\Firebase\ClientModuleUnit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android=""/>
+		<PmacOS iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
